@@ -11,7 +11,7 @@
 		<semantic:titleHeading>
 			<Title
 				id="masterPageTitle"
-				text="{masterView>/title}"
+				text="{masterView>/title2}"
 				level="H2"/>
 		</semantic:titleHeading>
 		<semantic:content>
