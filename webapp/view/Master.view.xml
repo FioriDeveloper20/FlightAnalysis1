@@ -64,7 +64,7 @@
 						type="Navigation"
 						press=".onSelectionChange"
 						title="{Carrname}"
-						numberUnit="{Url}">
+						>
 					</ObjectListItem>
 				</items>
 			</List>
