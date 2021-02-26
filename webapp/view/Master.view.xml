@@ -56,7 +56,8 @@
 							id="sortButton"
 							press=".onOpenViewSettings"
 							icon="sap-icon://sort"
-							type="Transparent"/>
+							type="Transparent"
+                            text="Sort Data"/>
 					</OverflowToolbar>
 				</headerToolbar>
 				<items>
